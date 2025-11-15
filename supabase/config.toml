@@ -1,0 +1,4 @@
+project_id = "kslnidqzwjfiugbboljy"
+
+[functions.generate-jewelry-design]
+verify_jwt = false
